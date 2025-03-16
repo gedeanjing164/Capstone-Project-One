@@ -1,0 +1,45 @@
+body {
+    background: #EBE8DB;
+}
+
+hr {
+    color: darkolivegreen;
+}
+
+h1 {
+    background-color: #49214e;
+}
+
+h1 {
+    color: #dd9a41;
+}
+
+h2 {
+    background-color: #49214e;;
+}
+
+h2 {
+    color: #dd9a41;
+}
+
+p {
+    color: #3D0301;
+}
+
+#ordered {
+    color: #3D0301;
+}
+
+#unordered {
+    color: #3D0301;
+    font-weight: bold;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+}
+
